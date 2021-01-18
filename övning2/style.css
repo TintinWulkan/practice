@@ -1,0 +1,9 @@
+div {
+    height: 20vh;
+    width: 20vh;
+    margin: 2vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
