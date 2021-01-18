@@ -1,0 +1,13 @@
+"use strict";
+
+// ÖVNING 1 (tips: ny mapp)
+
+// Skapa en HMTL-fil som har tre divar.
+// Se till att de syns, med hjälp av CSS (i en CSS-fil)
+
+// I JS:
+// 1. Se till att div1 blir (coh förblir) svart (bakgrundsfärg) när användaren klickar på den.
+// 2. Se till att div2 får en röd border när användaren klickar på div1.
+// 3. Skapa en ny div (div3) och se till att när användaren klickar på den så blir
+//    div1 och div2 båda hotpink (backgrundsfärg).
+// 4. Se till att när användaren klickar på body så blir alla tre divar tomato (bakgrundsfärg)
